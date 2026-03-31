@@ -1,0 +1,59 @@
+====================================================
+  OPENCLAW — AI TOOLS & REPOS SERIES | WEEK 1 DAY 1
+====================================================
+
+─────────────────────────────
+LINKEDIN CAPTION
+─────────────────────────────
+
+An AI agent that gives itself new powers — and it's free.
+
+OpenClaw just became the fastest-growing open-source project on GitHub in 2026. It went from 9,000 to 210,000 stars in 60 days.
+
+Here's why everyone is talking about it:
+
+→ It runs 24/7 on your local machine
+→ It browses the web, fills forms, runs code
+→ It writes its own new skills to get smarter over time
+→ No subscription. No cloud. No vendor lock-in.
+
+Whether you're a developer drowning in repetitive tasks, a PM who needs hands-free research, or just someone who wants an AI employee that actually works — this is worth your attention.
+
+Link in comments 👇
+github.com/OpenClaw
+
+---
+
+Follow for a new AI tool or GitHub repo every weekday (Mon–Fri).
+Drop a 🔧 if you want me to cover a specific tool next.
+
+#AITools #OpenSource #GitHub #Productivity #DeveloperTools #ProjectManagement #Automation #OpenClaw #ArtificialIntelligence #TechTools
+
+
+─────────────────────────────
+INSTAGRAM CAPTION
+─────────────────────────────
+
+An AI that teaches itself new tricks 🤖
+
+Meet OpenClaw — the open-source AI agent that broke GitHub.
+
+9K → 210K stars in 60 days. Here's what it does:
+
+✦ Runs on your own machine, 24/7
+✦ Browses the web & fills forms for you
+✦ Writes its own new skills over time
+✦ Completely free & open source
+
+Set it. Forget it. Let it work while you don't.
+
+🔗 github.com/OpenClaw
+
+New AI tool drops every weekday — follow so you don't miss them 👊
+
+.
+.
+.
+#AITools #OpenClaw #GitHub #OpenSource #Automation #DevTools #ProductivityHacks #WorkSmarter #AIAgent #TechTwitter #BuildInPublic #NoCode #SideProject #DeveloperLife #LazyGenius
+
+====================================================
